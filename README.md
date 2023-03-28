@@ -1,7 +1,5 @@
 # Pogo-Tracker-SlimeVR-Board-V1
 A repository for all the latest files on the Pogo Tracker and its charging base, 3d printable models, and PCB assembly guides.
-# Pogo-Tracker-SlimeVR-Board-V1
-A repository for all the latest files on the Pogo Tracker and its charging base, 3D printable models, and PCB assembly guides.
 
 ## Description
 A major challenge with pretty much all trackers today is requiring many USB charging cables to be able to charge up each of your trackers. This is especially cumbersome with 7 or even 10 trackers that each need their own cable to be charged at the same time. With this design all that is required to charge is one USB C cable connected to a dedicated charging base, and then you're able to stack each tracker ontop of it to charge. This allows for a much less cluttered storage space for your trackers, and makes it even easier to just pick up and strap on them on to play.
