@@ -35,7 +35,7 @@ BMI160
 ## How to source and order parts
 
  ### PCB
-1. Find the zipped Gerber file of the board version you'd like, and upload it to one of the quote pages ([JLCPCB](https://cart.jlcpcb.com/quote?orderType=1&stencilLayer=2&stencilWidth=100&stencilLength=100&stencilCounts=5) or [PCBWay](https://www.pcbway.com/orderonline.aspx))
+1. Find the zipped Gerber file of the board version you'd like, and upload it to one of the quote pages ([JLCPCB](https://cart.jlcpcb.com/quote?orderType=1&stencilLayer=2&stencilWidth=100&stencilLength=100&stencilCounts=5) or [PCBWay](https://www.pcbway.com/orderonline.aspx)).
 
 2. Select how many PCB's you'd like, minimum order is for 5 boards, with increments of 5 if you want more. 
     - First time customers usually to get discounts deals on the boards, especially with JLCPCB!
@@ -84,7 +84,7 @@ You can hand select each component based off the schematic or BOM file, but if y
  ***Make sure your battery has a built in protection board! The Lipo protection circuitry on the board is for charging only, make sure that discharge and over charge regulators are built into the battery you purchase.***
 
 
-## How To Purchase premade
+## How To Purchase Pre-made
 Stay tuned in the [Discord](https://discord.gg/wSvvSv9sZJ) channel for updates on availability!
 
 ## Assembly And Programming Guide
